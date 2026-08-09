@@ -65,3 +65,8 @@ Python, TensorFlow/Keras, OpenCV, scikit-learn, matplotlib, seaborn — develope
 - [ ] Add data augmentation to improve robustness
 - [ ] Try transfer learning with a pretrained model (e.g. ResNet, EfficientNet) for comparison
 - [ ] Expand beyond binary classification to hemorrhage subtype classification, if a suitable labeled dataset is available
+
+- [ ]  ## How to Run
+   1. Download the dataset from Kaggle (link above)
+   2. `pip install -r requirements.txt`
+   3. Run `notebook.ipynb`
